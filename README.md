@@ -2,6 +2,7 @@
 Homebrew RPG using coins. Simple, few materials. Great for travel.
 
 Uncommon Currency
+by Matthew J. Largé
 
 
     The group has been assembled; their eyes glint with the spark of adventure. They gathered rations and supplies for the events to come. Each with their own motives, they set forth on a journey. Nothing could prepare them for the trials ahead, for yay they had all left their dice bags at home. Yet, one did stand, refusing to fail. Upon the table he slammed his coinage; "We still have enough Two sided dice to go about!" Thus was created a new system of play. A game that is quick to start, simple to play, and requires few materials. That game is Uncommon Currency. 
